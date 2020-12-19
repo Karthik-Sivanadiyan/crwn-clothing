@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 12,
+  "editor.fontFamily": "Operator Mono Lig, Consolas, 'Courier New', monospace",
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "100"
+}
